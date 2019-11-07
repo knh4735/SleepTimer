@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">수면 타이머</string>
+    <string name="colon">:</string>
+    <string name="message">이후 화면이 꺼집니다.</string>
+    <string name="save">저장</string>
+    <string name="default_value">00</string>
+    <string name="logo">로고</string>
+    <string name="hour">시간</string>
+    <string name="minute">분</string>
+    <string name="second">초</string>
+    <string name="default_extend">+ 10분</string>
+</resources>
